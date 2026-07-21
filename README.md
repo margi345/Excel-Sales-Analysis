@@ -77,4 +77,4 @@ AtliQ Hardwares needed a way to answer key business questions:
 4. Refer to the individual PDF reports for a static, presentation-ready view of each analysis.
 
 ## Author
-[Your Name] — feel free to connect on [LinkedIn](#) or check out more projects on [GitHub](#).
+Margi Thakar — feel free to connect on www.linkedin.com/in/margi-thakar-433290356 or check out more projects on https://github.com/margi345/.
