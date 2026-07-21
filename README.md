@@ -1,5 +1,10 @@
 # AtliQ Hardwares — Sales & Finance Analysis
 
+## About AtliQ
+AtliQ Hardwares is a consumer electronics hardware company that sells products such as desktops, laptops, gaming accessories, and peripherals across multiple global markets. It operates through several divisions — including PC, Peripherals & Accessories (P&A), and Networking & Storage (N&S) — and sells through a wide network of retail and e-commerce customers such as Amazon, Flipkart, BestBuy, and Costco, across 20+ countries.
+
+This project analyzes AtliQ's sales and financial performance from 2019 to 2021, using Excel to build a set of interactive reports covering products, customers, markets, and profitability.
+
 ## Overview
 This project is an end-to-end sales and finance analysis of **AtliQ Hardwares**, built in Excel using Power Query, Power Pivot, and DAX. It transforms raw transactional data into a set of interactive, filterable reports covering product performance, customer performance, market performance against targets, and full profit & loss (P&L) statements across fiscal years, quarters, and markets.
 
