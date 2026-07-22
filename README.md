@@ -65,23 +65,23 @@ The goal of this project was to take raw sales and finance data and turn it into
 - Structuring a repeatable report-building workflow
 
 ## Repository Structure
-Excel-Sales-Analysis/
-├── README.md
-├── AtliQ-Sales-Finance-Analysis.xlsx
-├── Sales_Report/
-│ ├── New_Products_2021.pdf
-│ ├── Top_10_Products.pdf
-│ ├── Top&Bottom_5_Products_Qty.pdf
-│ ├── Divison_Level_Report.pdf
-│ ├── Market_Performance_vs_Target.pdf
-│ ├── Customer_Performance_Report.pdf
-│ └── Top_5_Countries-2021.pdf
-└── Finance_Report/
-├── P&L_Year.pdf
-├── P&L_months.pdf
-├── P&L_Market.pdf
-├── P&L_Report.pdf
-└── GM_Pct_by_Subzone.pdf
 
+- `README.md`
+- `AtliQ-Sales-Finance-Analysis.xlsx`
+- `Sales_Report/`
+  - `New_Products_2021.pdf`
+  - `Top_10_Products.pdf`
+  - `Top&Bottom_5_Products_Qty.pdf`
+  - `Divison_Level_Report.pdf`
+  - `Market_Performance_vs_Target.pdf`
+  - `Customer_Performance_Report.pdf`
+  - `Top_5_Countries-2021.pdf`
+- `Finance_Report/`
+  - `P&L_Year.pdf`
+  - `P&L_months.pdf`
+  - `P&L_Market.pdf`
+  - `P&L_Report.pdf`
+  - `GM_Pct_by_Subzone.pdf`
+    
 ## Author
-[margi345](https://github.com/margi345)
+Margi Thakar (https://github.com/margi345)
